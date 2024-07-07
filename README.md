@@ -8,7 +8,7 @@ Features:
 Comprehensive Attraction Database: Easily find and explore detailed information on various tourist attractions, from historical landmarks to natural wonders.
 Responsive Design: Enjoy a consistent and optimized user experience across all devices, including smartphones, tablets, and desktops.
 Interactive Chatbot: Utilize our intelligent chatbot to ask questions, get travel recommendations, and receive personalized tips for your travels.
-Why TravelMate?
+Why [Website Name]?
 
 User-Friendly Interface: Navigate effortlessly through our intuitive and visually appealing website.
 Up-to-date Information: Access the latest details on attractions, ensuring you have the most current information for your travel planning.
@@ -18,7 +18,7 @@ Getting Started:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/travel-tool.git
+git clone https://github.com/kaki1995/travel-tool.git
 cd travel-tool
 Install Dependencies:
 bash
@@ -38,9 +38,9 @@ Contributing:
 We welcome contributions! Please read our contributing guidelines to get started. Fork the repository, make your changes, and submit a pull request.
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the ... License - see the LICENSE file for details.
 
 Contact:
 For any inquiries or feedback, feel free to reach out to [your-email@example.com].
 
-Visit [Website Name] on GitHub: https://github.com/your-username/travel-tool
+Visit [Website Name] on GitHub: https://github.com/kaki1995/travel-tool
