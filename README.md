@@ -18,7 +18,7 @@ Getting Started:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/kaki1995/travel-tool.git
+git clone https://github.com/kaki1995/travel-website.git
 cd travel-tool
 Install Dependencies:
 bash
@@ -41,6 +41,6 @@ License:
 This project is licensed under the ... License - see the LICENSE file for details.
 
 Contact:
-For any inquiries or feedback, feel free to reach out to [your-email@example.com].
+For any inquiries or feedback, feel free to reach out to [ngocyena4@gmail.com].
 
-Visit [Website Name] on GitHub: https://github.com/kaki1995/travel-tool
+Visit [Website Name] on GitHub: https://github.com/kaki1995/travel-website
